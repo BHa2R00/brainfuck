@@ -1,2 +1,2 @@
 # brainfuck
-brainfuck interpreter, compiler and etc
+brainfuck interpreter, converter and etc
